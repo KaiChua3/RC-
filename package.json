@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.11.0",
+    "@tensorflow/tfjs-converter": "^4.12.0-rc.0",
+    "npyjs": "^0.5.0"
+  }
+}
